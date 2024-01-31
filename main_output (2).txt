@@ -1,0 +1,19 @@
+Enter Id:	
+123
+Enter Name:	
+yaseen
+Enter Gender:	
+male
+Enter City:	
+karachi
+Enter Salary:	
+50000
+Id		: 123
+Name	: yaseen
+Gender	: male
+City	: karachi
+Salary	: 50000
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
